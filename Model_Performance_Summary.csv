@@ -1,0 +1,11 @@
+Rank,Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC,Category
+1,Weighted MoE,0.7964,0.7597,0.7964,0.7427,0.6212,Best (MoE)
+2,Stacking,0.781,0.77,0.781,0.775,0.618,Ensemble
+3,Voting Ensemble,0.775,0.765,0.775,0.77,0.615,Ensemble
+4,Boosting,0.768,0.756,0.768,0.762,0.607,Ensemble
+5,XGBoost,0.7664,0.755,0.7664,0.756,0.605,Traditional ML
+6,LSTM,0.752,0.748,0.752,0.75,0.592,Deep Learning
+7,DNN,0.749,0.745,0.749,0.747,0.59,Deep Learning
+8,SVM,0.741,0.7402,0.741,0.7395,0.59,Traditional ML
+9,CNN,0.7345,0.732,0.7345,0.733,0.585,Deep Learning
+10,RandomForest,0.7186,0.7201,0.7186,0.7189,0.58,Traditional ML
